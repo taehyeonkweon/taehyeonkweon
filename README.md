@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Hi, I am Tae Hyeon (Simon) Kweon
 
 <!--
 **taehyeonkweon/taehyeonkweon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
