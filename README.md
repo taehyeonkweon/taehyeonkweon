@@ -1,5 +1,5 @@
 👋 Hi, I am Tae Hyeon (Simon) Kweon
-
+👀 I am interested in working with mobile robot manipulation and SLAM.
 <!--
 **taehyeonkweon/taehyeonkweon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
